@@ -17,5 +17,6 @@ ${message}
 <%--Add comment--%>
 <%--Ini komen juga--%>
 ${welcome}
+<p>This is welcome message</p>
 </body>
 </html>
