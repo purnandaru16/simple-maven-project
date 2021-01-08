@@ -14,6 +14,7 @@
 <body>
 ${message}
 <br>
+<%--Add comment--%>
 ${welcome}
 </body>
 </html>
